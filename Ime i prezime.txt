@@ -1,2 +1,3 @@
 Nebojsa Kolaric
 testiram ponovo push
+git conflict
